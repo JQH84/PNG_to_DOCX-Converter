@@ -4,5 +4,5 @@
 ### How to use : 
 * Make sure the file directory only contains the PNG files
 * Ensure to have the .py file within the same directory  
-* run pip install -r requirements.txt
-* run python png_to_docx.py
+* run ``` pip install -r requirements.txt ```
+* run ``` python png_to_docx.py ```
